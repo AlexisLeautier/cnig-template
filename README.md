@@ -58,6 +58,6 @@ Nous détaillons ci-dessous les étapes que nous vous conseillons de suivre apr�
 
 Pour vous aider dans la construction de votre dépôt, nous vous recommandons de vous référer à :
 
-- [Le guide à destination des producteurs de schéma](https://guides.etalab.gouv.fr/producteurs-schemas/)
+- [Le guide à destination des producteurs de schéma](https://guides.data.gouv.fr/guides-open-data/guide-qualite/maitriser-les-schemas-de-donnees)
 - [La documentation de schema.data.gouv.fr](https://schema.data.gouv.fr)
 - [La spécification Table Schema](https://specs.frictionlessdata.io/table-schema/)
